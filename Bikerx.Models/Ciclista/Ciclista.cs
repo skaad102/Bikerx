@@ -23,4 +23,5 @@ namespace Bikerx.Models.Ciclista
         public List<Ciclista> Amigos { get; set; }
         //
     }
+
 }
